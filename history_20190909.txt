@@ -1,0 +1,26 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  friefox
+    4  firefox
+    5  whoami
+    6  whereami
+    7  pwd
+    8  firefox
+    9  ls
+   10  firefox
+   11  ls
+   12  pwd
+   13  whoami
+   14  quartus
+   15  VirtualBox --startvm XP
+   16  who
+   17  whodepends
+   18  manwho
+   19  man who
+   20  echo $0
+   21  sh
+   22  uname
+   23  name -a
+   24  uname -a
+   25  history
+   26  history > history_20190909.txt
