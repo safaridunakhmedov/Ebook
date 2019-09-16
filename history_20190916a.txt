@@ -1,45 +1,48 @@
     1  VirtualBox --startvm XP
     2  quartus
-    3  cd ..
-    4  cd..
-    5  cd ..
-    6  cd ~
-    7* pwd
-    8* cd /
-    9* pwd
-   10  cd home/
-   11  cd/
-   12  cd /
-   13  cd ./home/cd ./home/
-   14  cd ./home/
-   15  cd /home/
-   16  cd /home/user/
-   17  cd /
-   18  cd
-   19  mkdir
-   20  mkdir Mynewdirectory01
-   21  ls
-   22  mkdir faridunthegreatest
-   23  ls =l
+    3  firefox
+    4  ls-l
+    5  ls -l
+    6  rm aaa.txt
+    7  ls -l *.txt
+    8  rm *.txt
+    9  ls -l
+   10  cat Downloads
+   11  cd Directory
+   12  cd Directory/
+   13  cd Downloads/
+   14  ls
+   15  ls -a
+   16  cd
+   17  pwd
+   18  touch mlu.txt
+   19  touch rli.btx
+   20  ls -l
+   21  rm *l*.*xt
+   22  ls -l
+   23  rm rli.btx
    24  ls -l
-   25  cd mydirectory/
-   26  cd Mynewdirectory01/
-   27  ls -l
-   28  ls -al
-   29  cd ..
-   30  pwd
-   31  cd Mynewdirectory01/
-   32  cd /user/
-   33  rmdir Mynewdirectory01
-   34  rmdir Mynewdirectory01/
-   35  lsls
-   36  cd ..
-   37  rmdir Mynewdirectory01/
-   38  rmdir faridunthegreastest/
-   39  rmdir faridunthegreatest/
-   40  ls
-   41  ls -l /
-   42  cd /home
-   43  mkdir Myy
-   44  history
-   45  cd
+   25  echo -e "Hello/vWorld!" > ccc.txt
+   26  ls -l
+   27  cat ccc.txt
+   28  echo -e "Hello\vWorld!" > ccc.txt
+   29  ls -l
+   30  cp ccc.txt cccl.txt
+   31  ls -l
+   32  cd /
+   33  mv ~/ccc.txt ~/Music/dd.tx
+   34  cd
+   35  ls -l
+   36  ls -l Music
+   37  cat dd.tx
+   38  cd Music/
+   39  cat dd.tx
+   40  cd
+   41  cat Music/dd.tx
+   42  rm Music/*.*
+   43  cat Music/
+   44  ls -l Music
+   45  mv cccl.txt dd.txt
+   46  ls -l
+   47  history 
+   48  history > history_20190916a.txt
