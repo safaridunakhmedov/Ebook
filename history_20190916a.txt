@@ -46,3 +46,16 @@
    46  ls -l
    47  history 
    48  history > history_20190916a.txt
+   49  nano Myfirstscript.sh
+   50  ls -l
+   51  ls
+   52  ./Myfirstscript.sh
+   53  chmod 740  Myfirstscript.sh
+   54  ls -l
+   55  ./Myfirstscript.sh
+   56  cat log.txt
+   57  ls
+   58  cat Myfirstscript.sh
+   59  ls -l
+   60  history
+   61  history > history_20190916a.txt 
