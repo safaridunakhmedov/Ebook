@@ -42,3 +42,6 @@ cp ccc.txt cccl.txt -create a copy
 cat Directory/filename -can look inside a specific file without going there. Also can use similar strategy to delete or edit info.
 
 mv ~/ccc.txt ~/Music/dd.tx -move with renaming. Need to be at the root.
+
+nano NAME -create a new script
+
