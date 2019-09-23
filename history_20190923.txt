@@ -1,0 +1,28 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/safaridunakhmedov/Ebook 
+    4  ls -l
+    5  cd Ebook/
+    6  ls -l
+    7  ls -la
+    8  git 
+    9  nano git-upload
+   10  cat git-upload
+   11  nano git-upload
+   12  sh
+   13  chmod 744 git-upload 
+   14  ls -l
+   15  ./git-upload 
+   16  nano git-upload
+   17  ./git-upload
+   18  where is git-upload
+   19  whereis git-upload
+   20  whereis ls
+   21  ls -l bin/ls
+   22  ls -l /bin/ls
+   23  echo $PATH
+   24  PATH=$PATH:~/Ebook/
+   25  echo $PATH
+   26  whereis git-upload
+   27  git-upload
+   28  history > history_20190923.txt
