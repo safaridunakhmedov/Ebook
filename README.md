@@ -45,3 +45,9 @@ mv ~/ccc.txt ~/Music/dd.tx -move with renaming. Need to be at the root.
 
 nano NAME -create a new script
 
+chmod 744 name -activate the code
+
+PATH=$PATH:~/Ebook/ -CREATE A PATH THAT RESPONSES TO THE COMMAND WHEREIS
+
+git clone LINK download a github file
+
