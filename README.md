@@ -51,3 +51,16 @@ PATH=$PATH:~/Ebook/ -CREATE A PATH THAT RESPONSES TO THE COMMAND WHEREIS
 
 git clone LINK download a github file
 
+Today we created a simple Hello world on c language. To begin with the most important thing to have in c code is "main () {}". this command is basically the head that alllows to find 
+the location where everything has begun.
+ The place for () is argument
+ the code is written inside { }
+ depending on variable (int void) the ending is return 0; or no
+ all of the command lines should end with   ;
+ the language is case sensitive
+ // creates a line that is a comment ingored by the compiler
+the text should be written in "", otherwise the cmpiler will confuse it with a command
+\n"); after the text separates the resulting text from a new command line
+gcc nasme.c -o anyname will compile the code and create the executor named "anyname"
+to run the programm it is necessary to put ./ before anyname, because there is no path for the place provided.
+
