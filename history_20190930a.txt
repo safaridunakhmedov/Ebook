@@ -1,0 +1,66 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  git clone https://github.com/safaridunakhmedov/Ebook
+    5  ls
+    6  cd Ebook
+    7  ls
+    8  cd works
+    9  ls
+   10  gcc elementary.c
+   11  cd ..
+   12  cd works
+   13  mkdir newdir
+   14  ls -l
+   15  nano mycode
+   16  gcc mycode.c 
+   17  b.out
+   18  cat mycode.c 
+   19  gcc mycode.c 
+   20  gcc mycode.c -o prg2
+   21  ls 
+   22  prg2
+   23  gcc prg2
+   24  pwd
+   25  ./prg2
+   26  ./prg2 
+   27  cp elementary.c hello.c
+   28  ls -lexit
+   29  ls -l
+   30  cat elementary.c 
+   31  gcc elementary.c -o a.out
+   32  ls -l
+   33  nano hello.c 
+   34  gcc hello.c -o prghello1
+   35  cat hello.c 
+   36  ls -l
+   37  nano hello.c 
+   38  gcc hello.c -o prghello1
+   39  ls -l
+   40  ./prghello1 
+   41  nano hello.c 
+   42  gcc hello.c -o prghello2
+   43  nano hello.c 
+   44  cat hello.c 
+   45  ls -l
+   46  ./prghello2
+   47  nano hello.c 
+   48  ./prghello2
+   49  nano hello.c 
+   50  gcc hello.c -o prghello3
+   51  ./prghello3
+   52  cat hello.c 
+   53  ls -l
+   54  rm prg1
+   55  rm prg2
+   56  ls prghello*
+   57  rm prghello*
+   58  ls -l
+   59  rm a.out
+   60  ls-l
+   61  ls -l
+   62  rmdir newdir
+   63  ls -l
+   64  cd ..
+   65  pwd
+   66  history > history_20190930a.txt
