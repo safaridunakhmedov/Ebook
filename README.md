@@ -62,5 +62,15 @@ the location where everything has begun.
 the text should be written in "", otherwise the cmpiler will confuse it with a command
 \n"); after the text separates the resulting text from a new command line
 gcc nasme.c -o anyname will compile the code and create the executor named "anyname"
-to run the programm it is necessary to put ./ before anyname, because there is no path for the place provided.
+to run the programm it is necessary to put ./ before anyname, because there is no path for the place providую
+
+Cumputers use acsii tables to convert characters into binary.
+Binary number is a number that consists of 0 and 1
+Octal is the one from 0 to 7
+Hexodecimal from 0-9-F
+We laerned how to convert from one state to another
+It is possible to make a conversion by using C language
+Within a programm char a=(Any one character) have to be assigned
+Then at the end of the printf static text sybmobls %d,o,x alongside with %n(to create a new line) need to be reated and quotes closed before mentioning "a"
+NOTE !!! FOR each %d %o or %x a new line has to be created.
 
