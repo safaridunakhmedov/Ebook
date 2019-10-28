@@ -21,7 +21,7 @@ void main()
   char  c=128;
   printf("b char valuable as decimal number (?128): %d\n",c);
 
-  char d=129;
+  char d=260;
   printf("b char valuable as decimal number (?129): %d\n",d);
 
  }
