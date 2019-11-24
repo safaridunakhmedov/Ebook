@@ -74,3 +74,12 @@ Within a programm char a=(Any one character) have to be assigned
 Then at the end of the printf static text sybmobls %d,o,x alongside with %n(to create a new line) need to be reated and quotes closed before mentioning "a"
 NOTE !!! FOR each %d %o or %x a new line has to be created.
 
+Operations 
+<< or >> means that in binary the number has to be shifted either 2 d ecimals to the right or to the left
+% shows the remainder obtained when dividing numbers
++= , -= etc. th result of the operations saved as a new number
+> or < if the expression is true the result is 1, if incorrect 0
+++  adds 1 to the number and saves the result as new one
+in order to get a decimal result %(number)f should be used after %d / %d = this.
+
+To write the code which alligns any 3 numbers in ascending order i could not use If else statements, because the operation of comparing three variables cannot be done. So, i had to use IF nested statements to get the desired result, by telling how respond in eahco ne of the cases. 
