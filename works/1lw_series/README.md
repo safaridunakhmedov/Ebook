@@ -67,4 +67,4 @@ f=   _________________
         (2k)  * (2k-1)  
 Function
 
-https://github.com/safaridunakhmedov/Ebook/blob/master/works/1lw_series/fig1.png
+https://github.com/safaridunakhmedov/Ebook/blob/master/works/1lw_series/fig1.png?raw=true
