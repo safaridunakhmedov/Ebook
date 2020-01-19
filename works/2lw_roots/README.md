@@ -1,4 +1,5 @@
- THEORY
+THEORY
+ 
  I used the theory of Bisectional calculation to find the value of x in sin^2(x) in the interval from a to b with a certain precision number.
  
  CODE
