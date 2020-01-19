@@ -5,21 +5,32 @@ Theory
 Code
 
 #include<stdio.h>
+
 #include<math.h>
+
 void main(){
- double x,y,a,S;
- int k=1;
- printf("Enter the x: ");
- scanf("%lf", &x);
- y = sin(x)*sin(x);
+
+double x,y,a,S;
+
+int k=1;
+
+printf("Enter the x: ");
+
+scanf("%lf", &x);
+
+y = sin(x)*sin(x);
 
  a = pow(-1,k+1)*pow(x,2*k)*pow(2,2*k-1)/(1*2);
- S = a;
- printf("%.2f\t%8.3f\t%8.2f\n",x,a,S);
 
- while(k<501){
-  k++;
-  a = a * (-1)*pow(x,2)*4 * (pow(((2*k) * (2*k-1)),(-1)));
+S = a;
+
+printf("%.2f\t%8.3f\t%8.2f\n",x,a,S);
+
+while(k<501){
+ 
+ k++;
+ 
+ a = a * (-1)*pow(x,2)*4 * (pow(((2*k) * (2*k-1)),(-1)));
   S = S + a;
   if(k>499) {
   printf("%.2f\t%8.10f\t%8.5f\n",x,a,S);
