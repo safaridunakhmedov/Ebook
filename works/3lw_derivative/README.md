@@ -74,6 +74,7 @@ scanf("%lf", &delta_x);
   x += delta_x;
   }
 }
+
 FIGURE
 
 https://github.com/safaridunakhmedov/Ebook/blob/master/works/3lw_derivative/Figure3.png
