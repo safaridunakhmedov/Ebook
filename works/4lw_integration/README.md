@@ -88,3 +88,7 @@ Enter the final limit: 1
 The integral using trapezoidal rule is: 0.273434                                                                                          
 The integral using rectangular rule is: 0.238030                                                                                          
 The integral using Simpson's rule is: 0.296276 
+
+FIGURE
+
+https://github.com/safaridunakhmedov/Ebook/blob/master/works/1lw_series/fig1.png
