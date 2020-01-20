@@ -1,4 +1,5 @@
 ANALYSIS
+
 This code basically calculates the derivative of sin^2(x) twice using two methods each time. The f(x) Stands for forward calculation while F(x) means step calculation.
 
 CODE
@@ -74,4 +75,6 @@ scanf("%lf", &delta_x);
   }
 }
 FIGURE
+
+https://github.com/safaridunakhmedov/Ebook/blob/master/works/3lw_derivative/Figure3.png
 
