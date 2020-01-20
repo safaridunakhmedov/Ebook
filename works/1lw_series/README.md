@@ -31,28 +31,44 @@ while(k<501){
  k++;
  
  a = a * (-1)*pow(x,2)*4 * (pow(((2*k) * (2*k-1)),(-1)));
+  
   S = S + a;
+  
   if(k>499) {
+  
   printf("%.2f\t%8.10f\t%8.5f\n",x,a,S);
 
   }
   
   }
-   printf("The value using Taylor series\n %.5",S);
+  
+  printf("The value using Taylor series\n %.5",S);
+  
   printf("the value using functions y=sin(%f)*sin(%f)=%f\n",x,x,y);
   
   
 printf("   500 \n");
+
 printf("   _      (k+1)    2   \n");
+
 printf("   \  (-1)      * x  * 4 \n");
+
 printf("f=  \ _________________  \n");
+
 printf("    /                   \n");
+
 printf("   /    (2k) * (2k-1)\n");
+
 printf("  /_                \n");
+
 printf("   1                \n");
+
 printf("               2 \n");  
+
 printf("       (-1) * x  * 4\n");
+
 printf("   R= ________________\n");
+
 printf("        (2k)  * (2k-1)\n");
 }
 
