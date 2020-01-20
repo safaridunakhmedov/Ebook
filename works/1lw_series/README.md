@@ -65,8 +65,8 @@ Enter the x: 2.5
 The value using Taylor series                                                                                                             
  the value using functions y=sin(2.500000)*sin(2.500000)=0.358169                                                                         
    500                                                                                                                                    
-   _      (k+1)    2                                                                                                                      
-     (-1)      * x  * 4                                                                                                                   
+   _      (k+1)    2                                                                                                                      \
+ \    (-1)      * x  * 4                                                                                                                   \
 f=   _________________                                                                                                                    
     /                                                                                                                                     
    /    (2k) * (2k-1)                                                                                                                     
